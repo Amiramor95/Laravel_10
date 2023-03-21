@@ -30,3 +30,10 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 
+composer.lock
+database/database.sqlite
+storage/framework/sessions/geIQJa6mShiGe708sv3GszLP7DnlCwDmk9y7AMuR
+storage/framework/sessions/UJj2euyFbcVyVy4uVDKXVGwflmG8mqreVLUlbdP6
+storage/logs/laravel.log
+storage/framework/views/085ca2e933843a0c3d09fbb9f318f6dd.php
+
